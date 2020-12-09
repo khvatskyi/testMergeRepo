@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\#Programming\\C#\\TestMergeRepo\\TestMergeRepo\\TestMergeRepo.csproj": {}
+    "D:\\#Programming\\C#\\#TestSprints\\Sprint12_MVC\\task-1-slobodian-fesh\\Sprint12\\Sprint12_MVC.csproj": {}
   },
   "projects": {
-    "D:\\#Programming\\C#\\TestMergeRepo\\TestMergeRepo\\TestMergeRepo.csproj": {
+    "D:\\#Programming\\C#\\#TestSprints\\Sprint12_MVC\\task-1-slobodian-fesh\\Sprint12\\Sprint12_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\#Programming\\C#\\TestMergeRepo\\TestMergeRepo\\TestMergeRepo.csproj",
-        "projectName": "TestMergeRepo",
-        "projectPath": "D:\\#Programming\\C#\\TestMergeRepo\\TestMergeRepo\\TestMergeRepo.csproj",
+        "projectUniqueName": "D:\\#Programming\\C#\\#TestSprints\\Sprint12_MVC\\task-1-slobodian-fesh\\Sprint12\\Sprint12_MVC.csproj",
+        "projectName": "Sprint12_MVC",
+        "projectPath": "D:\\#Programming\\C#\\#TestSprints\\Sprint12_MVC\\task-1-slobodian-fesh\\Sprint12\\Sprint12_MVC.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\#Programming\\C#\\TestMergeRepo\\TestMergeRepo\\obj\\",
+        "outputPath": "D:\\#Programming\\C#\\#TestSprints\\Sprint12_MVC\\task-1-slobodian-fesh\\Sprint12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
