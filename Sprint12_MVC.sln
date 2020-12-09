@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMergeRepo", "TestMergeRepo.csproj", "{E35AF54A-1B4F-453F-8214-B4E36029206C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint12_MVC", "Sprint12_MVC.csproj", "{899029C9-845F-45D2-8CBF-03CE5F6D87C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E35AF54A-1B4F-453F-8214-B4E36029206C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E35AF54A-1B4F-453F-8214-B4E36029206C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E35AF54A-1B4F-453F-8214-B4E36029206C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E35AF54A-1B4F-453F-8214-B4E36029206C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899029C9-845F-45D2-8CBF-03CE5F6D87C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899029C9-845F-45D2-8CBF-03CE5F6D87C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899029C9-845F-45D2-8CBF-03CE5F6D87C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899029C9-845F-45D2-8CBF-03CE5F6D87C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E848B005-1929-42B6-BB18-955B186B82E8}
+		SolutionGuid = {85F79292-EDBF-4FBD-AC12-00717392B30F}
 	EndGlobalSection
 EndGlobal
